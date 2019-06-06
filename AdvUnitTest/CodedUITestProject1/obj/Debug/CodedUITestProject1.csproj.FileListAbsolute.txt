@@ -1,0 +1,6 @@
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojAssemblyReference.cache
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\CodedUITestProject1\obj\Debug\CodedUITestProject1.csproj.CoreCompileInputs.cache
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

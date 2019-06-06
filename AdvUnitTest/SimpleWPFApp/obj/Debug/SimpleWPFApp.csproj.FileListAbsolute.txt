@@ -1,0 +1,15 @@
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\App.g.cs
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\SimpleWPFApp_MarkupCompile.cache
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\SimpleWPFApp_MarkupCompile.lref
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\bin\Debug\SimpleWPFApp.exe.config
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\bin\Debug\SimpleWPFApp.exe
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\bin\Debug\SimpleWPFApp.pdb
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\MainWindow.baml
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\SimpleWPFApp.g.resources
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\SimpleWPFApp.Properties.Resources.resources
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\SimpleWPFApp.csproj.GenerateResource.cache
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\SimpleWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\SimpleWPFApp.exe
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\SimpleWPFApp.pdb
+C:\Users\madhu\Documents\DIPLOMA\C#-WED\WK11-AdvUnitTest\AdvUnitTest\SimpleWPFApp\obj\Debug\SimpleWPFApp.csprojAssemblyReference.cache
