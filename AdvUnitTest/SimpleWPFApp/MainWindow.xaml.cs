@@ -46,5 +46,10 @@ namespace SimpleWPFApp
 
             checkBox1.IsEnabled = true;
         }
+
+        private void ButtonA_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
